@@ -10,6 +10,7 @@ const Store = () => {
          <SwipeToSlide/>
          <div className="product-display-container">
             <ProductDetails/>
+            <ProductDetails/>
          </div>
     </div>
 }
