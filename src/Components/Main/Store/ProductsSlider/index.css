@@ -1,0 +1,29 @@
+.slider-container{
+  margin-top: 14px;
+}
+.product-item-container{
+  display: flex;
+  align-items: center;
+}
+
+.product-icon-container.active-slide{
+  color: black;
+  font-weight: bold;
+}
+
+.product-icon-container{
+  padding: 8px;
+}
+
+.product-icon{
+  width: 24px;
+  height: 24px;
+}
+
+.product-title{
+  width: 200px;
+}
+
+.product-title.active-slide{
+  font-weight: bold;
+}
